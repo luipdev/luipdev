@@ -1,6 +1,6 @@
 # Hi, I'm Fredy 👋
 
-Python and backend developer from Lima, Peru. I build automation that keeps
+Python developer and systems analyst from Lima, Peru. I build automation that keeps
 running without supervision, relational databases in SQL Server, and server-side
 systems that keep data consistent.
 
@@ -38,6 +38,7 @@ systems that keep data consistent.
 **Python:** psutil · OpenCV · EasyOCR · NumPy · pytest · PyInstaller
 **Data:** SQL Server · relational modeling · stored procedures · triggers
 **AI:** ChatGPT · Claude · DeepSeek · OpenCode · Ollama (local models) · MCP · writing agent skills
+**Analysis:** UML · BPMN (Bizagi Modeler) · Scrum · Kanban
 **Tools:** Git · GitHub Actions · Roblox Studio · Blender
 
 ## Learning now

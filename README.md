@@ -38,7 +38,7 @@ systems that keep data consistent.
 - **Python:** psutil · OpenCV · EasyOCR · NumPy · pytest · PyInstaller
 - **Data:** SQL Server · relational modeling · stored procedures · triggers
 - **AI:** ChatGPT · Claude · DeepSeek · OpenCode · Ollama (local models) · MCP · writing agent skills
-- **Analysis:** UML · BPMN (Bizagi Modeler) · Scrum · Kanban
+- **Analysis & QA:** UML · BPMN (Bizagi Modeler) · Scrum · Kanban · pytest · test cases · bug reports
 - **Tools:** Git · GitHub Actions · Roblox Studio · Blender
 
 ## Learning now

@@ -4,7 +4,7 @@ Python developer and systems analyst from Lima, Peru. I build automation that ke
 running without supervision, relational databases in SQL Server, and server-side
 systems that keep data consistent.
 
-🌐 **Portfolio: [luipdev.github.io](https://luipdev.github.io)**
+🌐 **Portfolio: [luipdev.github.io](https://luipdev.github.io)** · 💼 **[LinkedIn](https://www.linkedin.com/in/luipdev)**
 
 *Desarrollador Python y analista de sistemas. Español nativo, inglés B2.*
 

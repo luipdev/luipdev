@@ -29,6 +29,7 @@ systems that keep data consistent.
 | [process-watchdog](https://github.com/luipdev/process-watchdog) | Python, process control, crash-loop detection, 24 tests, CI on Windows and Linux |
 | [clinic-database](https://github.com/luipdev/clinic-database) | T-SQL, data modeling, transactions, triggers, partitioning, security |
 | [multi-agent-dev-workflow](https://github.com/luipdev/multi-agent-dev-workflow) | AI agents with separate build and audit roles, persistent memory, real example |
+| [garden-odyssey-analysis](https://github.com/luipdev/garden-odyssey-analysis) | UML use cases, state machine and sequence diagram, BPMN process, Scrum model of a live game |
 | [screen-ocr-reader](https://github.com/luipdev/screen-ocr-reader) | OpenCV + EasyOCR on a window region, GPU with CPU fallback |
 | [input-recorder](https://github.com/luipdev/input-recorder) | pynput recording, replay and injection-safe code generation |
 

@@ -34,12 +34,12 @@ systems that keep data consistent.
 
 ## Stack
 
-**Languages:** Python · SQL (T-SQL) · Luau · Java
-**Python:** psutil · OpenCV · EasyOCR · NumPy · pytest · PyInstaller
-**Data:** SQL Server · relational modeling · stored procedures · triggers
-**AI:** ChatGPT · Claude · DeepSeek · OpenCode · Ollama (local models) · MCP · writing agent skills
-**Analysis:** UML · BPMN (Bizagi Modeler) · Scrum · Kanban
-**Tools:** Git · GitHub Actions · Roblox Studio · Blender
+- **Languages:** Python · SQL (T-SQL) · Luau · Java
+- **Python:** psutil · OpenCV · EasyOCR · NumPy · pytest · PyInstaller
+- **Data:** SQL Server · relational modeling · stored procedures · triggers
+- **AI:** ChatGPT · Claude · DeepSeek · OpenCode · Ollama (local models) · MCP · writing agent skills
+- **Analysis:** UML · BPMN (Bizagi Modeler) · Scrum · Kanban
+- **Tools:** Git · GitHub Actions · Roblox Studio · Blender
 
 ## Learning now
 
